@@ -1,5 +1,5 @@
 # awesome-awesome-awesome-awesome
-A curated list of awesome-awesome-awesome lists
+A curated list of curated lists of curated lists of awesome lists
 
 
 ## awesome-awesome-awesome
